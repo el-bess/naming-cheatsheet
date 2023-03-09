@@ -23,9 +23,10 @@
 
 Naming things is hard. This sheet attempts to make it easier.
 
+
 ## English language
 
-Use English language when naming your variables and functions.
+Use English language when naming  variables and functions.
 
 ```js
 /* Bad */
